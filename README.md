@@ -1,0 +1,1 @@
+This repository can execute all Cypress tests from this exercise.

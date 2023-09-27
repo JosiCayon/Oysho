@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "target": "ES5",
+    "lib": ["es6", "dom", "es2021"],
+    "types": ["cypress", "node"]
+  }
+}
